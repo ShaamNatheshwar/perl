@@ -1,0 +1,10 @@
+@players = ("shaam", "gohan");
+print "The name of the players are : @players \n";
+push (@players, "gogeta");
+print "The name of the players are : @players \n";
+unshift(@players, "majimbu");
+print "The name of the players are : @players \n";
+pop(@players);
+print "The name of the players are : @players \n";
+shift(@players);
+print "The name of the players are : @players \n";

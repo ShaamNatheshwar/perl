@@ -1,0 +1,2 @@
+$num = <STDIN>;
+print($num);
